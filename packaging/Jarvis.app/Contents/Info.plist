@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>en</string>
+    <key>CFBundleDisplayName</key>
+    <string>Jarvis</string>
+    <key>CFBundleExecutable</key>
+    <string>Jarvis</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.federico.jarvis</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>Jarvis</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>0.2.0</string>
+    <key>CFBundleVersion</key>
+    <string>2</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>13.0</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSAppleEventsUsageDescription</key>
+    <string>Jarvis uses accessibility actions only for explicitly requested, safety-checked commands.</string>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>Jarvis accesses the microphone only while you hold the right Option key.</string>
+    <key>NSCalendarsWriteOnlyAccessUsageDescription</key>
+    <string>Jarvis adds the calendar events you explicitly request and confirm by voice.</string>
+    <key>NSCalendarsUsageDescription</key>
+    <string>Jarvis adds the calendar events you explicitly request and confirm by voice.</string>
+    <key>NSScreenCaptureDescription</key>
+    <string>Jarvis reads visible screen text to locate the Notion page and verify requested clicks. Screenshots are not stored.</string>
+</dict>
+</plist>
